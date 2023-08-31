@@ -1,0 +1,8 @@
+﻿  TEST.cpp
+C:\Users\anons\source\repos\TEST\TEST\TEST.cpp(11,6): error C2373: 'momerbati': redefinition; different type modifiers
+C:\Users\anons\source\repos\TEST\TEST\TEST.cpp(7,12): message : see declaration of 'momerbati'
+C:\Users\anons\source\repos\TEST\TEST\TEST.cpp(12,29): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\anons\source\repos\TEST\TEST\TEST.cpp(12,29): error C2088: '<<': illegal for class
+C:\Users\anons\source\repos\TEST\TEST\TEST.cpp(20,6): error C2086: 'int x': redefinition
+C:\Users\anons\source\repos\TEST\TEST\TEST.cpp(16,6): message : see declaration of 'x'
+C:\Users\anons\source\repos\TEST\TEST\TEST.cpp(30,19): warning C4305: 'initializing': truncation from 'double' to 'float'
